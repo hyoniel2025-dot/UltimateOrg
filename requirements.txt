@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto
+aiohttp
+aiofiles
+aiosqlite
+internetarchive
+yt-dlp
+python-dotenv
+py7zr
